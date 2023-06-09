@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdeployment_test=self.webpackChunkdeployment_test||[]).push([[5935],{8083:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/nemat97.github.io/blog/tags/facebook","allTagsPath":"/nemat97.github.io/blog/tags","count":1}')}}]);
