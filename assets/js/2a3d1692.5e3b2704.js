@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdeployment_test=self.webpackChunkdeployment_test||[]).push([[7858],{6934:e=>{e.exports=JSON.parse('{"permalink":"/nemat97.github.io/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
